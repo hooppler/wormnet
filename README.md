@@ -25,7 +25,7 @@ C:\path_to_main> python main.py
 Using of user interface is descripbed in help text at the bottom of the window.  
 Be paitient while train network and have good fun!
 
-![Screenshot](file://media/NeuralNetworkLetterRecognition.png)
+![Screenshot](media/NeuralNetworkLetterRecognition.png)
 
 
 ## Requirements
